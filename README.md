@@ -24,26 +24,23 @@
 
 ## 📅 Daily POC Plan
 
-| Day | Topic                  | POC Title (To be updated as completed) |
-|-----|-------------------------|----------------------------------------|
-| 1   | User & Group Management | Enterprise User Lifecycle Automation   |
-| 2   | Disk & File System      | (Coming Soon)                          |
-| 3   | File Permissions & ACL  | (Coming Soon)                          |
-| 4   | Archiving & Compression | (Coming Soon)                          |
-| 5   | Package Management      | (Coming Soon)                          |
-| 6   | Networking Troubleshooting | (Coming Soon)                      |
-| 7   | Job Scheduling Automation | (Coming Soon)                        |
-| 8   | Log Management & Rotation | (Coming Soon)                        |
-| 9   | Process Management      | (Coming Soon)                          |
-| 10  | Secure SSH Automation   | (Coming Soon)                          |
-| 11  | Firewall & Security     | (Coming Soon)                          |
-| 12  | Data Integrity Validation | (Coming Soon)                        |
-| 13  | Performance Monitoring  | (Coming Soon)                          |
-| 14  | Shell Scripting Automation | (Coming Soon)                      |
-| 15  | LVM + Docker Lab        | (Coming Soon)                          |
-
----
-
+| Day | Topic                  | POC Title                                      | Status      |
+|-----|-------------------------|-----------------------------------------------|-------------|
+| 1   | User & Group Management | [Enterprise User Lifecycle Automation](./Day1-UserLifecycle/README.md)   | ✅ Completed |
+| 2   | Disk & File System      | [Disk & File System Health Monitoring](./Day2-DiskFilesystem/README.md) | ✅ Completed |
+| 3   | File Permissions & ACL  | [File Permissions & ACL Mastery](./Day3-FilePermissions/README.md) | ✅ Completed |
+| 4   | Archiving & Compression | [Archiving & Compression Automation](./Day4-ArchivingCompression/README.md) | ✅ Completed |
+| 5   | Package Management      | (Coming Soon)                                | 🚧 Pending  |
+| 6   | Networking Troubleshooting | (Coming Soon)                           | 🚧 Pending  |
+| 7   | Job Scheduling Automation | (Coming Soon)                             | 🚧 Pending  |
+| 8   | Log Management & Rotation | (Coming Soon)                             | 🚧 Pending  |
+| 9   | Process Management      | (Coming Soon)                                | 🚧 Pending  |
+| 10  | Secure SSH Automation   | (Coming Soon)                                | 🚧 Pending  |
+| 11  | Firewall & Security     | (Coming Soon)                                | 🚧 Pending  |
+| 12  | Data Integrity Validation | (Coming Soon)                              | 🚧 Pending  |
+| 13  | Performance Monitoring  | (Coming Soon)                                | 🚧 Pending  |
+| 14  | Shell Scripting Automation | (Coming Soon)                            | 🚧 Pending  |
+| 15  | LVM + Docker Lab        | (Coming Soon)                                | 🚧 Pending  |
 
 ---
 
@@ -58,7 +55,4 @@ Each day, I will:
 ---
 
 ✅ Stay tuned for daily updates!
-
-
-
 
