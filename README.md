@@ -30,7 +30,7 @@
 | 2   | Disk & File System      | [Disk & File System Health Monitoring](./Day2-DiskFilesystem/README.md) | ✅ Completed |
 | 3   | File Permissions & ACL  | [File Permissions & ACL Mastery](./Day3-FilePermissions/README.md) | ✅ Completed |
 | 4   | Archiving & Compression | [Archiving & Compression Automation](./Day4-ArchivingCompression/README.md) | ✅ Completed |
-| 5   | Package Management      | (Coming Soon)                                | 🚧 Pending  |
+| 5   | Package Management      | [Package Management Automation](./Day5-PackageManagement/README.md) | ✅ Completed |
 | 6   | Networking Troubleshooting | (Coming Soon)                           | 🚧 Pending  |
 | 7   | Job Scheduling Automation | (Coming Soon)                             | 🚧 Pending  |
 | 8   | Log Management & Rotation | (Coming Soon)                             | 🚧 Pending  |
@@ -51,6 +51,11 @@ Each day, I will:
 - Complete one POC
 - Upload scripts, commands, screenshots
 - Share progress on GitHub & LinkedIn
+
+---
+
+✅ Stay tuned for daily updates!
+
 
 ---
 
