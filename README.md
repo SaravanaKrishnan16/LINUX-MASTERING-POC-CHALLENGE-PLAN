@@ -58,6 +58,3 @@ Each day, I will:
 
 
 ---
-
-✅ Stay tuned for daily updates!
-
