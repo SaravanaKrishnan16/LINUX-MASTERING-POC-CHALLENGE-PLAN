@@ -31,7 +31,7 @@
 | 3   | File Permissions & ACL  | [File Permissions & ACL Mastery](./Day3-FilePermissions/README.md) | ✅ Completed |
 | 4   | Archiving & Compression | [Archiving & Compression Automation](./Day4-ArchivingCompression/README.md) | ✅ Completed |
 | 5   | Package Management      | [Package Management Automation](./Day5-PackageManagement/README.md) | ✅ Completed |
-| 6   | Networking Troubleshooting | (Coming Soon)                           | 🚧 Pending  |
+| 6   | Networking Troubleshooting | [Networking Troubleshooting POC](./Day6-NetworkTroubleshooting/README.md) | ✅ Completed |
 | 7   | Job Scheduling Automation | (Coming Soon)                             | 🚧 Pending  |
 | 8   | Log Management & Rotation | (Coming Soon)                             | 🚧 Pending  |
 | 9   | Process Management      | (Coming Soon)                                | 🚧 Pending  |
@@ -55,6 +55,3 @@ Each day, I will:
 ---
 
 ✅ Stay tuned for daily updates!
-
-
----
