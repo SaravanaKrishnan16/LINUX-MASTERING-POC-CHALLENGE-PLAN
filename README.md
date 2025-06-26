@@ -33,7 +33,7 @@
 | 5   | Package Management         | [Package Management Automation](./Day5-PackageManagement/README.md)    | ✅ Completed  |
 | 6   | Networking Troubleshooting | [Networking Troubleshooting](./Day6-NetworkTroubleshooting/README.md)  | ✅ Completed  |
 | 7   | Job Scheduling Automation  | [Job Scheduling Automation](./Day7-JobScheduling/README.md)            | ✅ Completed  |
-| 8   | Log Management & Rotation  | (Coming Soon)                                                          | 🚧 Pending    |
+| 8   | Log Management & Rotation  | [Log Management & Rotation POC](./Day8-LogRotation/README.md)          | ✅ Completed  |
 | 9   | Process Management         | (Coming Soon)                                                          | 🚧 Pending    |
 | 10  | Secure SSH Automation      | (Coming Soon)                                                          | 🚧 Pending    |
 | 11  | Firewall & Security        | (Coming Soon)                                                          | 🚧 Pending    |
@@ -55,3 +55,4 @@ Each day, I will:
 ---
 
 ✅ Stay tuned for daily updates!
+
