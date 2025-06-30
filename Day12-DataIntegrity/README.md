@@ -1,4 +1,4 @@
-# 🐧 Day 12 — Data Integrity Validation POC
+# 🐧 Day 12 — Data Integrity Validation 
 
 ---
 
