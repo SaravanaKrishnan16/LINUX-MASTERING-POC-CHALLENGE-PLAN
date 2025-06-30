@@ -23,21 +23,4 @@
 | `echo`, `cat`  | Create and view file contents                     |
 
 ---
-
-## 🔧 Full POC Execution
-
----
-
-### ✅ 1️⃣ Create and Simulate Files
-
-```bash
-mkdir -p ~/integrity_demo
-cd ~/integrity_demo
-
-echo "This is a secure file." > original.txt
-cp original.txt tampered.txt
-echo "Hacked by intruder" >> tampered.txt
-
-
-
-
+\
