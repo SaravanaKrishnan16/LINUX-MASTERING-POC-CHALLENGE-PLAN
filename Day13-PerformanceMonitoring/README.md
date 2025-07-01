@@ -1,54 +1,30 @@
-\# 📊 Day 13 — Performance Monitoring POC
-
-
+# 🖥️ Day 13 — Performance Monitoring
 
 ---
 
+## 🎯 Objective
 
+Master Linux performance monitoring by:
 
-\## 🎯 Objective
-
-
-
-\- Monitor \*\*real-time Linux performance metrics\*\*  
-
-\- Track CPU, memory, and disk I/O usage using system tools  
-
-\- Simulate real-world production diagnostics  
-
-\- Automate performance reporting with a Bash script
-
-
+- Tracking system uptime, CPU, memory, and disk I/O usage  
+- Identifying top resource-consuming processes  
+- Using real-time tools for live diagnostics  
+- Automating performance snapshot collection using a Bash script  
 
 ---
 
+## 📌 Commands Practiced
 
-
-\## 📌 Commands Practiced
-
-
-
-| Command            | Purpose                                         |
-
-|--------------------|-------------------------------------------------|
-
-| `top`              | Real-time process and resource monitoring       |
-
-| `htop`             | Interactive visual system monitor               |
-
-| `uptime`           | Show system uptime and load averages            |
-
-| `free -h`          | Display memory and swap usage                   |
-
-| `vmstat`           | Monitor memory, processes, I/O, and CPU         |
-
-| `iostat`           | Analyze CPU and disk I/O stats                  |
-
-| `ps`               | Display top CPU-consuming processes             |
-
-| `chmod +x`         | Make Bash scripts executable                    |
-
-
+| Command            | Purpose                                           |
+|--------------------|---------------------------------------------------|
+| `uptime`           | Show system load and uptime                       |
+| `free -h`          | Display available and used memory                 |
+| `top`              | Monitor live CPU, memory, and process usage       |
+| `htop`             | Enhanced version of `top` (optional)              |
+| `vmstat`           | Show CPU, memory, and process stats over time     |
+| `iostat`           | Disk I/O and CPU performance                      |
+| `ps`               | List top CPU-consuming processes                  |
+| `chmod +x`         | Make Bash script executable                       |
 
 ---
 
