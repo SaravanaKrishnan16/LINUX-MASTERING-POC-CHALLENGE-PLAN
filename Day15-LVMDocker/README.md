@@ -1,4 +1,4 @@
-# 🐳 Day 15 — LVM + Docker Lab POC
+# 🐳 Day 15 — LVM + Docker Lab 
 
 ---
 
