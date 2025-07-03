@@ -27,15 +27,6 @@ Master advanced Linux storage and container integration by:
 
 ---
 
-## 🔧 POC Steps
-
----
-
-### ✅ 1. Create Virtual Disk (1 GB)
-
-```bash
-fallocate -l 1G ~/lvm_disk.img
-
 
 
 
