@@ -44,14 +44,17 @@
 
 ---
 
-## 🔗 Follow the Journey
+## 🔗 Journey Completed
 
-Each day, I will:
+Over the course of 15 days, I:
 
-- Complete one POC  
-- Upload scripts, commands, screenshots  
-- Share progress on GitHub & LinkedIn  
+- ✅ Completed 15 real-world inspired Linux POCs  
+- ✅ Automated system tasks using bash scripting  
+- ✅ Documented everything with commands, scripts, and screenshots  
+- ✅ Shared progress on GitHub & LinkedIn to inspire and grow  
 
 ---
 
-✅ Stay tuned for daily updates!
+🎉 This marks the successful end of my **15-Day Linux POC Challenge** — but the journey of learning never stops.  
+Stay tuned for bonus projects, advanced DevOps labs, and future challenges!
+
